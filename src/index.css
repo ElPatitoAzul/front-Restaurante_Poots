@@ -1,0 +1,14 @@
+:root {
+
+}
+
+
+body {
+    display: grid;
+    align-items: center;
+    //background: url("assets/img/Food.jpg") no-repeat center center fixed;
+    background-size: cover
+}
+
+
+

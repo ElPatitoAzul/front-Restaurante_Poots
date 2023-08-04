@@ -1,0 +1,28 @@
+
+@media (max-width: 1000px){
+    header{
+            /* Reverse the axis of the header, making it vertical. */
+            flex-direction: column;
+            
+            /* Align items to the begining (the left) of the header. */
+            align-items: flex-start;
+            
+    }
+}
+
+.logo{
+    width: 12%;
+}
+.principal{
+    margin: 25px;
+    
+}
+
+
+
+.prueba{
+    margin: 25px;
+}
+.btn{
+    background-color: #EC343B;
+}

@@ -1,0 +1,60 @@
+.img-logo{
+    width: 190px;
+    height: 80px;
+    
+}
+.logotipo{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.modal-content{
+    border-radius:15px;
+    width: 380px;
+    padding: 0 20px;
+
+}
+
+.modal-dialog{
+}
+
+.btnLogin{
+    background-color: #EC343B;
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 40%;
+    padding: 0;
+}
+
+.txtuser{
+    width: 210px;
+    outline: none;
+    border: 0;
+    border-bottom:2px solid #504424;
+    opacity: .90;
+}
+
+.txtpass{
+    width: 210px;
+    outline: none;
+    border: 0;
+    border-bottom:2px solid #504424;
+    opacity: .90;
+}
+
+.lbluser{
+    font-size: 17px;
+    color: #504424;
+    opacity: .90;
+}
+.lblpass{
+    font-size: 17px;
+    color: #504424;
+    opacity: .90;
+}
+.btnLogin{
+    width: 210px;
+    border-radius: 8px;
+}
